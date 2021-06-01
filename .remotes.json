@@ -1,0 +1,32 @@
+[
+  {
+    "package": "chart",
+    "url": "https://github.com/SciViews/chart",
+    "via": ["SciViews"],
+    "from": "SciViews"
+  },
+  {
+    "package": "data.io",
+    "url": "https://github.com/SciViews/data.io",
+    "via": ["SciViews"],
+    "from": "SciViews"
+  },
+  {
+    "package": "data.io",
+    "url": "https://github.com/SciViews/data.io",
+    "via": ["SciViews", "chart"],
+    "from": "SciViews"
+  },
+  {
+    "package": "flow",
+    "url": "https://github.com/SciViews/flow",
+    "via": ["SciViews"],
+    "from": "SciViews"
+  },
+  {
+    "package": "svMisc",
+    "url": "https://github.com/SciViews/svMisc",
+    "via": ["SciViews"],
+    "from": "SciViews"
+  }
+]

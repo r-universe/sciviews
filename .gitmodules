@@ -33,3 +33,18 @@
 	url = https://github.com/sciviews/svunit
 	shallow = true
 	registered = true
+[submodule "chart"]
+	path = chart
+	url = https://github.com/SciViews/chart
+	shallow = true
+	registered = false
+[submodule "data.io"]
+	path = data.io
+	url = https://github.com/SciViews/data.io
+	shallow = true
+	registered = false
+[submodule "flow"]
+	path = flow
+	url = https://github.com/SciViews/flow
+	shallow = true
+	registered = false
