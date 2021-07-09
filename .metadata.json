@@ -1,0 +1,26 @@
+[
+  {
+    "package": "SciViews",
+    "oncran": true
+  },
+  {
+    "package": "svDialogs",
+    "oncran": true
+  },
+  {
+    "package": "svGUI",
+    "oncran": true
+  },
+  {
+    "package": "svMisc",
+    "oncran": true
+  },
+  {
+    "package": "svSocket",
+    "oncran": true
+  },
+  {
+    "package": "svUnit",
+    "oncran": true
+  }
+]

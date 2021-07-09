@@ -3,3 +3,33 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "SciViews"]
+	path = SciViews
+	url = https://github.com/sciviews/sciviews
+	shallow = true
+	registered = true
+[submodule "svDialogs"]
+	path = svDialogs
+	url = https://github.com/sciviews/svdialogs
+	shallow = true
+	registered = true
+[submodule "svGUI"]
+	path = svGUI
+	url = https://github.com/sciviews/svgui
+	shallow = true
+	registered = true
+[submodule "svMisc"]
+	path = svMisc
+	url = https://github.com/sciviews/svmisc
+	shallow = true
+	registered = true
+[submodule "svSocket"]
+	path = svSocket
+	url = https://github.com/sciviews/svsocket
+	shallow = true
+	registered = true
+[submodule "svUnit"]
+	path = svUnit
+	url = https://github.com/sciviews/svunit
+	shallow = true
+	registered = true
