@@ -1,9 +1,27 @@
 [
   {
+    "package": "SciViews",
+    "url": "https://github.com/SciViews/SciViews",
+    "via": ["exploreit"],
+    "from": "exploreit"
+  },
+  {
     "package": "chart",
     "url": "https://github.com/SciViews/chart",
     "via": ["SciViews"],
     "from": "SciViews"
+  },
+  {
+    "package": "chart",
+    "url": "https://github.com/SciViews/chart",
+    "via": ["exploreit"],
+    "from": "exploreit"
+  },
+  {
+    "package": "chart",
+    "url": "https://github.com/SciViews/chart",
+    "via": ["exploreit", "SciViews"],
+    "from": "exploreit"
   },
   {
     "package": "chart",
@@ -26,6 +44,30 @@
   {
     "package": "data.io",
     "url": "https://github.com/SciViews/data.io",
+    "via": ["exploreit", "chart"],
+    "from": "exploreit"
+  },
+  {
+    "package": "data.io",
+    "url": "https://github.com/SciViews/data.io",
+    "via": ["exploreit"],
+    "from": "exploreit"
+  },
+  {
+    "package": "data.io",
+    "url": "https://github.com/SciViews/data.io",
+    "via": ["exploreit", "SciViews"],
+    "from": "exploreit"
+  },
+  {
+    "package": "data.io",
+    "url": "https://github.com/SciViews/data.io",
+    "via": ["exploreit", "SciViews", "chart"],
+    "from": "exploreit"
+  },
+  {
+    "package": "data.io",
+    "url": "https://github.com/SciViews/data.io",
     "via": ["form.io"],
     "from": "form.io"
   },
@@ -42,9 +84,27 @@
     "from": "SciViews"
   },
   {
+    "package": "flow",
+    "url": "https://github.com/SciViews/flow",
+    "via": ["exploreit"],
+    "from": "exploreit"
+  },
+  {
+    "package": "flow",
+    "url": "https://github.com/SciViews/flow",
+    "via": ["exploreit", "SciViews"],
+    "from": "exploreit"
+  },
+  {
     "package": "svMisc",
     "url": "https://github.com/SciViews/svMisc",
     "via": ["SciViews"],
     "from": "SciViews"
+  },
+  {
+    "package": "svMisc",
+    "url": "https://github.com/SciViews/svMisc",
+    "via": ["exploreit", "SciViews"],
+    "from": "exploreit"
   }
 ]
