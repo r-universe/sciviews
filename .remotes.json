@@ -96,6 +96,30 @@
     "from": "exploreit"
   },
   {
+    "package": "gradethis",
+    "url": "https://github.com/rstudio/gradethis",
+    "via": ["learnitdown"],
+    "from": "learnitdown"
+  },
+  {
+    "package": "learnr",
+    "url": "https://github.com/rstudio/learnr",
+    "via": ["learnitdown"],
+    "from": "learnitdown"
+  },
+  {
+    "package": "learnr",
+    "url": "https://github.com/rstudio/learnr",
+    "via": ["learnitdown", "gradethis"],
+    "from": "learnitdown"
+  },
+  {
+    "package": "rlang",
+    "url": "https://github.com/r-lib/rlang",
+    "via": ["learnitdown"],
+    "from": "learnitdown"
+  },
+  {
     "package": "svMisc",
     "url": "https://github.com/SciViews/svMisc",
     "via": ["SciViews"],

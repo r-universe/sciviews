@@ -143,3 +143,18 @@
 	url = https://github.com/SciViews/RImageJ
 	shallow = true
 	registered = true
+[submodule "gradethis"]
+	path = gradethis
+	url = https://github.com/rstudio/gradethis
+	shallow = true
+	registered = false
+[submodule "learnr"]
+	path = learnr
+	url = https://github.com/rstudio/learnr
+	shallow = true
+	registered = false
+[submodule "rlang"]
+	path = rlang
+	url = https://github.com/r-lib/rlang
+	shallow = true
+	registered = false
