@@ -1,50 +1,145 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/sciviews/universe
 	shallow = true
 	branch = HEAD
 [submodule "SciViews"]
 	path = SciViews
-	url = https://github.com/sciviews/sciviews
-	shallow = true
-	registered = true
-[submodule "svDialogs"]
-	path = svDialogs
-	url = https://github.com/sciviews/svdialogs
-	shallow = true
-	registered = true
-[submodule "svGUI"]
-	path = svGUI
-	url = https://github.com/sciviews/svgui
+	url = https://github.com/SciViews/SciViews
 	shallow = true
 	registered = true
 [submodule "svMisc"]
 	path = svMisc
-	url = https://github.com/sciviews/svmisc
-	shallow = true
-	registered = true
-[submodule "svSocket"]
-	path = svSocket
-	url = https://github.com/sciviews/svsocket
+	url = https://github.com/SciViews/svMisc
 	shallow = true
 	registered = true
 [submodule "svUnit"]
 	path = svUnit
-	url = https://github.com/sciviews/svunit
+	url = https://github.com/SciViews/svUnit
+	shallow = true
+	registered = true
+[submodule "svSocket"]
+	path = svSocket
+	url = https://github.com/SciViews/svSocket
+	shallow = true
+	registered = true
+[submodule "svHttp"]
+	path = svHttp
+	url = https://github.com/SciViews/svHttp
+	shallow = true
+	registered = true
+[submodule "svPkgdown"]
+	path = svPkgdown
+	url = https://github.com/SciViews/svPkgdown
+	shallow = true
+	registered = true
+[submodule "svGUI"]
+	path = svGUI
+	url = https://github.com/SciViews/svGUI
+	shallow = true
+	registered = true
+[submodule "svDialogs"]
+	path = svDialogs
+	url = https://github.com/SciViews/svDialogs
+	shallow = true
+	registered = true
+[submodule "svDialogstcltk"]
+	path = svDialogstcltk
+	url = https://github.com/SciViews/svDialogstcltk
+	shallow = true
+	registered = true
+[submodule "svWidgets"]
+	path = svWidgets
+	url = https://github.com/SciViews/svWidgets
+	shallow = true
+	registered = true
+[submodule "svSweave"]
+	path = svSweave
+	url = https://github.com/SciViews/svSweave
+	shallow = true
+	registered = true
+[submodule "svTools"]
+	path = svTools
+	url = https://github.com/SciViews/svTools
+	shallow = true
+	registered = true
+[submodule "svIDE"]
+	path = svIDE
+	url = https://github.com/SciViews/svIDE
+	shallow = true
+	registered = true
+[submodule "svKomodo"]
+	path = svKomodo
+	url = https://github.com/SciViews/svKomodo
+	shallow = true
+	registered = true
+[submodule "svDoc"]
+	path = svDoc
+	url = https://github.com/SciViews/svDoc
+	shallow = true
+	registered = true
+[submodule "flow"]
+	path = flow
+	url = https://github.com/SciViews/flow
+	shallow = true
+	registered = true
+[submodule "data.io"]
+	path = data.io
+	url = https://github.com/SciViews/data.io
+	shallow = true
+	registered = true
+[submodule "form.io"]
+	path = form.io
+	url = https://github.com/SciViews/form.io
 	shallow = true
 	registered = true
 [submodule "chart"]
 	path = chart
 	url = https://github.com/SciViews/chart
 	shallow = true
-	registered = false
-[submodule "data.io"]
-	path = data.io
-	url = https://github.com/SciViews/data.io
+	registered = true
+[submodule "tcltk2"]
+	path = tcltk2
+	url = https://github.com/SciViews/tcltk2
 	shallow = true
-	registered = false
-[submodule "flow"]
-	path = flow
-	url = https://github.com/SciViews/flow
+	registered = true
+[submodule "exploreit"]
+	path = exploreit
+	url = https://github.com/SciViews/exploreit
 	shallow = true
-	registered = false
+	registered = true
+[submodule "inferit"]
+	path = inferit
+	url = https://github.com/SciViews/inferit
+	shallow = true
+	registered = true
+[submodule "modelit"]
+	path = modelit
+	url = https://github.com/SciViews/modelit
+	shallow = true
+	registered = true
+[submodule "mlearning"]
+	path = mlearning
+	url = https://github.com/SciViews/mlearning
+	shallow = true
+	registered = true
+[submodule "learnitdown"]
+	path = learnitdown
+	url = https://github.com/SciViews/learnitdown
+	shallow = true
+	registered = true
+[submodule "zooimage"]
+	path = zooimage
+	url = https://github.com/SciViews/zooimage
+	shallow = true
+	registered = true
+[submodule "zooimagej"]
+	path = zooimagej
+	url = https://github.com/SciViews/zooimagej
+	shallow = true
+	registered = true
+[submodule "RImageJ"]
+	path = RImageJ
+	url = https://github.com/SciViews/RImageJ
+	shallow = true
+	registered = true

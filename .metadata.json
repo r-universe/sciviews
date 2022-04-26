@@ -4,15 +4,11 @@
     "oncran": true
   },
   {
-    "package": "svDialogs",
-    "oncran": true
-  },
-  {
-    "package": "svGUI",
-    "oncran": true
-  },
-  {
     "package": "svMisc",
+    "oncran": true
+  },
+  {
+    "package": "svUnit",
     "oncran": true
   },
   {
@@ -20,7 +16,88 @@
     "oncran": true
   },
   {
-    "package": "svUnit",
+    "package": "svHttp",
+    "oncran": false
+  },
+  {
+    "package": "svPkgdown"
+  },
+  {
+    "package": "svGUI",
     "oncran": true
+  },
+  {
+    "package": "svDialogs",
+    "oncran": true
+  },
+  {
+    "package": "svDialogstcltk",
+    "oncran": false
+  },
+  {
+    "package": "svWidgets",
+    "oncran": false
+  },
+  {
+    "package": "svSweave",
+    "oncran": false
+  },
+  {
+    "package": "svTools",
+    "oncran": false
+  },
+  {
+    "package": "svIDE",
+    "oncran": false
+  },
+  {
+    "package": "svKomodo",
+    "oncran": false
+  },
+  {
+    "package": "svDoc"
+  },
+  {
+    "package": "flow",
+    "oncran": false
+  },
+  {
+    "package": "data.io"
+  },
+  {
+    "package": "form.io"
+  },
+  {
+    "package": "chart"
+  },
+  {
+    "package": "tcltk2",
+    "oncran": false
+  },
+  {
+    "package": "exploreit"
+  },
+  {
+    "package": "inferit"
+  },
+  {
+    "package": "modelit"
+  },
+  {
+    "package": "mlearning",
+    "oncran": false
+  },
+  {
+    "package": "learnitdown"
+  },
+  {
+    "package": "zooimage",
+    "oncran": false
+  },
+  {
+    "package": "zooimagej"
+  },
+  {
+    "package": "RImageJ"
   }
 ]
