@@ -133,11 +133,6 @@
 	url = https://github.com/SciViews/zooimage
 	shallow = true
 	registered = true
-[submodule "zooimagej"]
-	path = zooimagej
-	url = https://github.com/SciViews/zooimagej
-	shallow = true
-	registered = true
 [submodule "RImageJ"]
 	path = RImageJ
 	url = https://github.com/SciViews/RImageJ

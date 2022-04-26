@@ -95,9 +95,6 @@
     "oncran": false
   },
   {
-    "package": "zooimagej"
-  },
-  {
     "package": "RImageJ"
   }
 ]
