@@ -137,11 +137,13 @@
 	path = gradethis
 	url = https://github.com/rstudio/gradethis
 	shallow = true
+	branch = 6dfaecf
 	registered = false
 [submodule "learnr"]
 	path = learnr
 	url = https://github.com/rstudio/learnr
 	shallow = true
+	branch = 07473563
 	registered = false
 [submodule "rlang"]
 	path = rlang
