@@ -98,11 +98,6 @@
 	url = https://github.com/SciViews/chart
 	shallow = true
 	registered = true
-[submodule "tcltk2"]
-	path = tcltk2
-	url = https://github.com/SciViews/tcltk2
-	shallow = true
-	registered = true
 [submodule "exploreit"]
 	path = exploreit
 	url = https://github.com/SciViews/exploreit

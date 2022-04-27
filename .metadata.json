@@ -71,10 +71,6 @@
     "package": "chart"
   },
   {
-    "package": "tcltk2",
-    "oncran": false
-  },
-  {
     "package": "exploreit"
   },
   {
