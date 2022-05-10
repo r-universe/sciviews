@@ -105,26 +105,20 @@
     "package": "gradethis",
     "url": "https://github.com/rstudio/gradethis",
     "via": ["learnitdown"],
-    "branch": "6dfaecf",
+    "branch": "v0.2.8.9000",
     "from": "learnitdown"
   },
   {
     "package": "learnr",
     "url": "https://github.com/rstudio/learnr",
     "via": ["learnitdown"],
-    "branch": "07473563",
+    "branch": "802e4ec",
     "from": "learnitdown"
   },
   {
     "package": "learnr",
     "url": "https://github.com/rstudio/learnr",
     "via": ["learnitdown", "gradethis"],
-    "from": "learnitdown"
-  },
-  {
-    "package": "rlang",
-    "url": "https://github.com/r-lib/rlang",
-    "via": ["learnitdown"],
     "from": "learnitdown"
   },
   {
