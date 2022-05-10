@@ -6,6 +6,12 @@
     "from": "exploreit"
   },
   {
+    "package": "bibtex",
+    "url": "https://github.com/ROpenSci/bibtex",
+    "via": ["svPkgdown"],
+    "from": "svPkgdown"
+  },
+  {
     "package": "chart",
     "url": "https://github.com/SciViews/chart",
     "via": ["SciViews"],
