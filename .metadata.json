@@ -17,7 +17,7 @@
   },
   {
     "package": "svHttp",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "svPkgdown"
@@ -32,7 +32,7 @@
   },
   {
     "package": "svDialogstcltk",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "svWidgets",
@@ -40,7 +40,7 @@
   },
   {
     "package": "svSweave",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "svTools",
@@ -52,7 +52,7 @@
   },
   {
     "package": "svKomodo",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "svDoc"
