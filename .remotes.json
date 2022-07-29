@@ -50,6 +50,12 @@
   {
     "package": "data.io",
     "url": "https://github.com/SciViews/data.io",
+    "via": ["chart"],
+    "from": "chart"
+  },
+  {
+    "package": "data.io",
+    "url": "https://github.com/SciViews/data.io",
     "via": ["exploreit", "chart"],
     "from": "exploreit"
   },
