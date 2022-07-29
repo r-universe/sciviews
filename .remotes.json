@@ -86,12 +86,6 @@
   {
     "package": "flow",
     "url": "https://github.com/SciViews/flow",
-    "via": ["SciViews"],
-    "from": "SciViews"
-  },
-  {
-    "package": "flow",
-    "url": "https://github.com/SciViews/flow",
     "via": ["exploreit"],
     "from": "exploreit"
   },
@@ -120,6 +114,12 @@
     "url": "https://github.com/rstudio/learnr",
     "via": ["learnitdown", "gradethis"],
     "from": "learnitdown"
+  },
+  {
+    "package": "svFlow",
+    "url": "https://github.com/SciViews/flow",
+    "via": ["SciViews"],
+    "from": "SciViews"
   },
   {
     "package": "svMisc",
