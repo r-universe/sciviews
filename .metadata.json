@@ -96,6 +96,13 @@
     "package": "RImageJ"
   },
   {
+    "package": "pastecs",
+    "oncran": true
+  },
+  {
+    "package": "aurelhy"
+  },
+  {
     "package": "svMisc",
     "oncran": true
   }
