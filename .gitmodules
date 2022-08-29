@@ -13,6 +13,11 @@
 	url = https://github.com/SciViews/svMisc
 	shallow = true
 	registered = true
+[submodule "svBase"]
+	path = svBase
+	url = https://github.com/SciViews/svBase
+	shallow = true
+	registered = true
 [submodule "svUnit"]
 	path = svUnit
 	url = https://github.com/SciViews/svUnit
@@ -78,9 +83,9 @@
 	url = https://github.com/SciViews/svDoc
 	shallow = true
 	registered = true
-[submodule "flow"]
-	path = flow
-	url = https://github.com/SciViews/flow
+[submodule "svFlow"]
+	path = svFlow
+	url = https://github.com/SciViews/svFlow
 	shallow = true
 	registered = true
 [submodule "data.io"]
@@ -138,6 +143,11 @@
 	url = https://github.com/ROpenSci/bibtex
 	shallow = true
 	registered = false
+[submodule "flow"]
+	path = flow
+	url = https://github.com/SciViews/flow
+	shallow = true
+	registered = false
 [submodule "gradethis"]
 	path = gradethis
 	url = https://github.com/rstudio/gradethis
@@ -149,9 +159,4 @@
 	url = https://github.com/rstudio/learnr
 	shallow = true
 	branch = 802e4ec
-	registered = false
-[submodule "svFlow"]
-	path = svFlow
-	url = https://github.com/SciViews/flow
-	shallow = true
 	registered = false
