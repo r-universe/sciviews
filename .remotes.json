@@ -90,18 +90,6 @@
     "from": "form.io"
   },
   {
-    "package": "flow",
-    "url": "https://github.com/SciViews/flow",
-    "via": ["exploreit"],
-    "from": "exploreit"
-  },
-  {
-    "package": "flow",
-    "url": "https://github.com/SciViews/flow",
-    "via": ["exploreit", "SciViews"],
-    "from": "exploreit"
-  },
-  {
     "package": "gradethis",
     "url": "https://github.com/rstudio/gradethis",
     "via": ["learnitdown"],
@@ -126,6 +114,18 @@
     "url": "https://github.com/SciViews/flow",
     "via": ["SciViews"],
     "from": "SciViews"
+  },
+  {
+    "package": "svFlow",
+    "url": "https://github.com/SciViews/svFlow",
+    "via": ["exploreit"],
+    "from": "exploreit"
+  },
+  {
+    "package": "svFlow",
+    "url": "https://github.com/SciViews/flow",
+    "via": ["exploreit", "SciViews"],
+    "from": "exploreit"
   },
   {
     "package": "svMisc",
