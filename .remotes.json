@@ -166,6 +166,12 @@
   {
     "package": "svBase",
     "url": "https://github.com/SciViews/svBase",
+    "via": ["data.io", "SciViews"],
+    "from": "data.io"
+  },
+  {
+    "package": "svBase",
+    "url": "https://github.com/SciViews/svBase",
     "via": ["exploreit", "chart", "data.io"],
     "from": "exploreit"
   },
@@ -195,7 +201,7 @@
   },
   {
     "package": "svFlow",
-    "url": "https://github.com/SciViews/flow",
+    "url": "https://github.com/SciViews/svFlow",
     "via": ["data.io", "SciViews"],
     "from": "data.io"
   },
