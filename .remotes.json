@@ -2,6 +2,12 @@
   {
     "package": "SciViews",
     "url": "https://github.com/SciViews/SciViews",
+    "via": ["data.io"],
+    "from": "data.io"
+  },
+  {
+    "package": "SciViews",
+    "url": "https://github.com/SciViews/SciViews",
     "via": ["exploreit"],
     "from": "exploreit"
   },
@@ -16,6 +22,12 @@
     "url": "https://github.com/SciViews/chart",
     "via": ["SciViews"],
     "from": "SciViews"
+  },
+  {
+    "package": "chart",
+    "url": "https://github.com/SciViews/chart",
+    "via": ["data.io", "SciViews"],
+    "from": "data.io"
   },
   {
     "package": "chart",
@@ -110,10 +122,22 @@
     "from": "learnitdown"
   },
   {
+    "package": "svBase",
+    "url": "https://github.com/SciViews/svBase",
+    "via": ["data.io"],
+    "from": "data.io"
+  },
+  {
     "package": "svFlow",
     "url": "https://github.com/SciViews/flow",
     "via": ["SciViews"],
     "from": "SciViews"
+  },
+  {
+    "package": "svFlow",
+    "url": "https://github.com/SciViews/flow",
+    "via": ["data.io", "SciViews"],
+    "from": "data.io"
   },
   {
     "package": "svFlow",
@@ -132,6 +156,12 @@
     "url": "https://github.com/SciViews/svMisc",
     "via": ["SciViews"],
     "from": "SciViews"
+  },
+  {
+    "package": "svMisc",
+    "url": "https://github.com/SciViews/svMisc",
+    "via": ["data.io", "SciViews"],
+    "from": "data.io"
   },
   {
     "package": "svMisc",
