@@ -80,13 +80,13 @@
   {
     "package": "data.io",
     "url": "https://github.com/SciViews/data.io",
-    "via": ["SciViews"],
+    "via": ["SciViews", "chart"],
     "from": "SciViews"
   },
   {
     "package": "data.io",
     "url": "https://github.com/SciViews/data.io",
-    "via": ["SciViews", "chart"],
+    "via": ["SciViews"],
     "from": "SciViews"
   },
   {
@@ -160,13 +160,13 @@
   {
     "package": "svBase",
     "url": "https://github.com/SciViews/svBase",
-    "via": ["SciViews", "data.io"],
+    "via": ["SciViews", "chart", "data.io"],
     "from": "SciViews"
   },
   {
     "package": "svBase",
     "url": "https://github.com/SciViews/svBase",
-    "via": ["SciViews", "chart", "data.io"],
+    "via": ["SciViews", "data.io"],
     "from": "SciViews"
   },
   {
