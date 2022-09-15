@@ -250,6 +250,12 @@
   {
     "package": "svBase",
     "url": "https://github.com/SciViews/svBase",
+    "via": ["exploreit"],
+    "from": "exploreit"
+  },
+  {
+    "package": "svBase",
+    "url": "https://github.com/SciViews/svBase",
     "via": ["modelit", "chart", "data.io"],
     "from": "modelit"
   },
@@ -347,6 +353,12 @@
     "package": "svMisc",
     "url": "https://github.com/SciViews/svMisc",
     "via": ["exploreit", "SciViews"],
+    "from": "exploreit"
+  },
+  {
+    "package": "svMisc",
+    "url": "https://github.com/SciViews/svMisc",
+    "via": ["exploreit"],
     "from": "exploreit"
   },
   {
