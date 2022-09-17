@@ -163,5 +163,4 @@
 	path = learnr
 	url = https://github.com/rstudio/learnr
 	shallow = true
-	branch = 802e4ec
 	registered = false

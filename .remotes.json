@@ -153,14 +153,14 @@
   {
     "package": "learnr",
     "url": "https://github.com/rstudio/learnr",
-    "via": ["learnitdown"],
-    "branch": "802e4ec",
+    "via": ["learnitdown", "gradethis"],
     "from": "learnitdown"
   },
   {
     "package": "learnr",
     "url": "https://github.com/rstudio/learnr",
-    "via": ["learnitdown", "gradethis"],
+    "via": ["learnitdown"],
+    "branch": "v0.10.5.9000",
     "from": "learnitdown"
   },
   {
