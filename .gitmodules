@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/sciviews/universe
+	url = https://github.com/sciviews/sciviews.r-universe.dev
 	shallow = true
 	branch = HEAD
 [submodule "SciViews"]
