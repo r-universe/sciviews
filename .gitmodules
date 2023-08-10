@@ -2,90 +2,12 @@
 	path = .registry
 	url = https://github.com/sciviews/sciviews.r-universe.dev
 	branch = HEAD
-[submodule "SciViews"]
-	path = SciViews
-	url = https://github.com/SciViews/SciViews
-[submodule "svMisc"]
-	path = svMisc
-	url = https://github.com/SciViews/svMisc
-[submodule "svBase"]
-	path = svBase
-	url = https://github.com/SciViews/svBase
-[submodule "svUnit"]
-	path = svUnit
-	url = https://github.com/SciViews/svUnit
-[submodule "svSocket"]
-	path = svSocket
-	url = https://github.com/SciViews/svSocket
-[submodule "svHttp"]
-	path = svHttp
-	url = https://github.com/SciViews/svHttp
-[submodule "svPkgdown"]
-	path = svPkgdown
-	url = https://github.com/SciViews/svPkgdown
-[submodule "svGUI"]
-	path = svGUI
-	url = https://github.com/SciViews/svGUI
-[submodule "svDialogs"]
-	path = svDialogs
-	url = https://github.com/SciViews/svDialogs
-[submodule "svDialogstcltk"]
-	path = svDialogstcltk
-	url = https://github.com/SciViews/svDialogstcltk
-[submodule "svWidgets"]
-	path = svWidgets
-	url = https://github.com/SciViews/svWidgets
-[submodule "svSweave"]
-	path = svSweave
-	url = https://github.com/SciViews/svSweave
-[submodule "svTools"]
-	path = svTools
-	url = https://github.com/SciViews/svTools
-[submodule "svIDE"]
-	path = svIDE
-	url = https://github.com/SciViews/svIDE
-[submodule "svKomodo"]
-	path = svKomodo
-	url = https://github.com/SciViews/svKomodo
-[submodule "svDoc"]
-	path = svDoc
-	url = https://github.com/SciViews/svDoc
-[submodule "svFlow"]
-	path = svFlow
-	url = https://github.com/SciViews/svFlow
-[submodule "data.io"]
-	path = data.io
-	url = https://github.com/SciViews/data.io
-[submodule "form.io"]
-	path = form.io
-	url = https://github.com/SciViews/form.io
-[submodule "chart"]
-	path = chart
-	url = https://github.com/SciViews/chart
-[submodule "exploreit"]
-	path = exploreit
-	url = https://github.com/SciViews/exploreit
-[submodule "inferit"]
-	path = inferit
-	url = https://github.com/SciViews/inferit
-[submodule "modelit"]
-	path = modelit
-	url = https://github.com/SciViews/modelit
-[submodule "mlearning"]
-	path = mlearning
-	url = https://github.com/SciViews/mlearning
-[submodule "learnitdown"]
-	path = learnitdown
-	url = https://github.com/SciViews/learnitdown
-[submodule "zooimage"]
-	path = zooimage
-	url = https://github.com/SciViews/zooimage
 [submodule "RImageJ"]
 	path = RImageJ
 	url = https://github.com/SciViews/RImageJ
-[submodule "pastecs"]
-	path = pastecs
-	url = https://github.com/phgrosjean/pastecs
+[submodule "SciViews"]
+	path = SciViews
+	url = https://github.com/SciViews/SciViews
 [submodule "aurelhy"]
 	path = aurelhy
 	url = https://github.com/phgrosjean/aurelhy
@@ -93,13 +15,91 @@
 	path = bibtex
 	url = https://github.com/ROpenSci/bibtex
 	registered = false
+[submodule "chart"]
+	path = chart
+	url = https://github.com/SciViews/chart
+[submodule "data.io"]
+	path = data.io
+	url = https://github.com/SciViews/data.io
+[submodule "exploreit"]
+	path = exploreit
+	url = https://github.com/SciViews/exploreit
+[submodule "form.io"]
+	path = form.io
+	url = https://github.com/SciViews/form.io
 [submodule "gradethis"]
 	path = gradethis
 	url = https://github.com/rstudio/gradethis
 	branch = v0.2.8.9000
 	registered = false
+[submodule "inferit"]
+	path = inferit
+	url = https://github.com/SciViews/inferit
+[submodule "learnitdown"]
+	path = learnitdown
+	url = https://github.com/SciViews/learnitdown
 [submodule "learnr"]
 	path = learnr
 	url = https://github.com/rstudio/learnr
 	branch = v0.10.5.9000
 	registered = false
+[submodule "mlearning"]
+	path = mlearning
+	url = https://github.com/SciViews/mlearning
+[submodule "modelit"]
+	path = modelit
+	url = https://github.com/SciViews/modelit
+[submodule "pastecs"]
+	path = pastecs
+	url = https://github.com/phgrosjean/pastecs
+[submodule "svBase"]
+	path = svBase
+	url = https://github.com/SciViews/svBase
+[submodule "svDialogs"]
+	path = svDialogs
+	url = https://github.com/SciViews/svDialogs
+[submodule "svDialogstcltk"]
+	path = svDialogstcltk
+	url = https://github.com/SciViews/svDialogstcltk
+[submodule "svDoc"]
+	path = svDoc
+	url = https://github.com/SciViews/svDoc
+[submodule "svFlow"]
+	path = svFlow
+	url = https://github.com/SciViews/svFlow
+[submodule "svGUI"]
+	path = svGUI
+	url = https://github.com/SciViews/svGUI
+[submodule "svHttp"]
+	path = svHttp
+	url = https://github.com/SciViews/svHttp
+[submodule "svIDE"]
+	path = svIDE
+	url = https://github.com/SciViews/svIDE
+[submodule "svKomodo"]
+	path = svKomodo
+	url = https://github.com/SciViews/svKomodo
+[submodule "svMisc"]
+	path = svMisc
+	url = https://github.com/SciViews/svMisc
+[submodule "svPkgdown"]
+	path = svPkgdown
+	url = https://github.com/SciViews/svPkgdown
+[submodule "svSocket"]
+	path = svSocket
+	url = https://github.com/SciViews/svSocket
+[submodule "svSweave"]
+	path = svSweave
+	url = https://github.com/SciViews/svSweave
+[submodule "svTools"]
+	path = svTools
+	url = https://github.com/SciViews/svTools
+[submodule "svUnit"]
+	path = svUnit
+	url = https://github.com/SciViews/svUnit
+[submodule "svWidgets"]
+	path = svWidgets
+	url = https://github.com/SciViews/svWidgets
+[submodule "zooimage"]
+	path = zooimage
+	url = https://github.com/SciViews/zooimage
