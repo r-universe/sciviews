@@ -27,6 +27,10 @@
 [submodule "form.io"]
 	path = form.io
 	url = https://github.com/SciViews/form.io
+[submodule "ggcheck"]
+	path = ggcheck
+	url = https://github.com/rstudio/ggcheck
+	registered = false
 [submodule "gradethis"]
 	path = gradethis
 	url = https://github.com/rstudio/gradethis

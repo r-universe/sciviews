@@ -144,6 +144,12 @@
     "from": "modelit"
   },
   {
+    "package": "ggcheck",
+    "url": "https://github.com/rstudio/ggcheck",
+    "via": ["learnitdown", "gradethis"],
+    "from": "learnitdown"
+  },
+  {
     "package": "gradethis",
     "url": "https://github.com/rstudio/gradethis",
     "via": ["learnitdown"],
@@ -155,12 +161,6 @@
     "url": "https://github.com/rstudio/learnr",
     "via": ["learnitdown"],
     "branch": "v0.10.5.9000",
-    "from": "learnitdown"
-  },
-  {
-    "package": "learnr",
-    "url": "https://github.com/rstudio/learnr",
-    "via": ["learnitdown", "gradethis"],
     "from": "learnitdown"
   },
   {
