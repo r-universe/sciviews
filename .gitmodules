@@ -104,6 +104,10 @@
 [submodule "svWidgets"]
 	path = svWidgets
 	url = https://github.com/SciViews/svWidgets
+[submodule "tabularise"]
+	path = tabularise
+	url = https://github.com/SciViews/tabularise
+	registered = false
 [submodule "zooimage"]
 	path = zooimage
 	url = https://github.com/SciViews/zooimage
