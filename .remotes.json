@@ -242,12 +242,6 @@
     "from": "modelit"
   },
   {
-    "package": "svBase",
-    "url": "https://github.com/SciViews/svBase",
-    "via": ["modelit", "chart", "data.io", "SciViews"],
-    "from": "modelit"
-  },
-  {
     "package": "svFlow",
     "url": "https://github.com/SciViews/svFlow",
     "via": ["SciViews"],
@@ -293,12 +287,6 @@
     "package": "svFlow",
     "url": "https://github.com/SciViews/svFlow",
     "via": ["modelit", "chart", "data.io", "SciViews"],
-    "from": "modelit"
-  },
-  {
-    "package": "svFlow",
-    "url": "https://github.com/SciViews/svFlow",
-    "via": ["modelit"],
     "from": "modelit"
   },
   {
@@ -354,5 +342,11 @@
     "url": "https://github.com/SciViews/tabularise",
     "via": ["SciViews"],
     "from": "SciViews"
+  },
+  {
+    "package": "tabularise",
+    "url": "https://github.com/SciViews/tabularise",
+    "via": ["modelit", "chart", "data.io", "SciViews"],
+    "from": "modelit"
   }
 ]
