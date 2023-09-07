@@ -172,12 +172,6 @@
   {
     "package": "svBase",
     "url": "https://github.com/SciViews/svBase",
-    "via": ["chart", "data.io", "SciViews"],
-    "from": "chart"
-  },
-  {
-    "package": "svBase",
-    "url": "https://github.com/SciViews/svBase",
     "via": ["data.io"],
     "from": "data.io"
   },
@@ -342,6 +336,12 @@
     "url": "https://github.com/SciViews/tabularise",
     "via": ["SciViews"],
     "from": "SciViews"
+  },
+  {
+    "package": "tabularise",
+    "url": "https://github.com/SciViews/tabularise",
+    "via": ["chart", "data.io", "SciViews"],
+    "from": "chart"
   },
   {
     "package": "tabularise",
