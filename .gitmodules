@@ -21,6 +21,10 @@
 [submodule "data.io"]
 	path = data.io
 	url = https://github.com/SciViews/data.io
+[submodule "equatiomatic"]
+	path = equatiomatic
+	url = https://github.com/datalorax/equatiomatic
+	registered = false
 [submodule "exploreit"]
 	path = exploreit
 	url = https://github.com/SciViews/exploreit

@@ -138,6 +138,12 @@
     "from": "modelit"
   },
   {
+    "package": "equatiomatic",
+    "url": "https://github.com/datalorax/equatiomatic",
+    "via": ["modelit", "chart", "data.io", "SciViews", "tabularise"],
+    "from": "modelit"
+  },
+  {
     "package": "ggcheck",
     "url": "https://github.com/rstudio/ggcheck",
     "via": ["learnitdown", "gradethis"],
