@@ -140,6 +140,12 @@
   {
     "package": "equatiomatic",
     "url": "https://github.com/datalorax/equatiomatic",
+    "via": ["SciViews", "tabularise"],
+    "from": "SciViews"
+  },
+  {
+    "package": "equatiomatic",
+    "url": "https://github.com/datalorax/equatiomatic",
     "via": ["modelit", "chart", "data.io", "SciViews", "tabularise"],
     "from": "modelit"
   },
