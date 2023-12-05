@@ -266,6 +266,12 @@
   {
     "package": "texPreview",
     "url": "https://github.com/yonicd/texPreview",
+    "via": ["equatiomatic"],
+    "from": "equatiomatic"
+  },
+  {
+    "package": "texPreview",
+    "url": "https://github.com/yonicd/texPreview",
     "via": ["exploreit", "SciViews", "tabularise", "equatiomatic"],
     "from": "exploreit"
   },
