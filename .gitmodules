@@ -112,6 +112,10 @@
 	path = tabularise
 	url = https://github.com/SciViews/tabularise
 	registered = false
+[submodule "texPreview"]
+	path = texPreview
+	url = https://github.com/yonicd/texPreview
+	registered = false
 [submodule "zooimage"]
 	path = zooimage
 	url = https://github.com/SciViews/zooimage

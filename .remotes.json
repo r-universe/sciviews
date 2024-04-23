@@ -366,5 +366,11 @@
     "url": "https://github.com/SciViews/tabularise",
     "via": ["modelit", "chart", "data.io", "SciViews"],
     "from": "modelit"
+  },
+  {
+    "package": "texPreview",
+    "url": "https://github.com/yonicd/texPreview",
+    "via": ["modelit", "chart", "data.io", "SciViews", "tabularise", "equatiomatic"],
+    "from": "modelit"
   }
 ]
