@@ -28,9 +28,6 @@
 [submodule "exploreit"]
 	path = exploreit
 	url = https://github.com/SciViews/exploreit
-[submodule "form.io"]
-	path = form.io
-	url = https://github.com/SciViews/form.io
 [submodule "ggcheck"]
 	path = ggcheck
 	url = https://github.com/rstudio/ggcheck
@@ -111,7 +108,6 @@
 [submodule "tabularise"]
 	path = tabularise
 	url = https://github.com/SciViews/tabularise
-	registered = false
 [submodule "texPreview"]
 	path = texPreview
 	url = https://github.com/yonicd/texPreview
