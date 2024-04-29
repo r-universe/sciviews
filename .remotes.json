@@ -152,6 +152,12 @@
   {
     "package": "equatiomatic",
     "url": "https://github.com/datalorax/equatiomatic",
+    "via": ["data.io", "SciViews", "tabularise"],
+    "from": "data.io"
+  },
+  {
+    "package": "equatiomatic",
+    "url": "https://github.com/datalorax/equatiomatic",
     "via": ["modelit", "chart", "data.io", "SciViews", "tabularise"],
     "from": "modelit"
   },
@@ -310,7 +316,7 @@
   {
     "package": "svMisc",
     "url": "https://github.com/SciViews/svMisc",
-    "via": ["data.io", "SciViews"],
+    "via": ["data.io", "SciViews", "chart"],
     "from": "data.io"
   },
   {
@@ -372,6 +378,12 @@
     "url": "https://github.com/yonicd/texPreview",
     "via": ["chart", "data.io", "SciViews", "tabularise", "equatiomatic"],
     "from": "chart"
+  },
+  {
+    "package": "texPreview",
+    "url": "https://github.com/yonicd/texPreview",
+    "via": ["data.io", "SciViews", "tabularise", "equatiomatic"],
+    "from": "data.io"
   },
   {
     "package": "texPreview",
