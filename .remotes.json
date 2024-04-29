@@ -36,6 +36,12 @@
     "from": "modelit"
   },
   {
+    "package": "SciViews",
+    "url": "https://github.com/SciViews/SciViews",
+    "via": ["tabularise", "data.io"],
+    "from": "tabularise"
+  },
+  {
     "package": "bibtex",
     "url": "https://github.com/ROpenSci/bibtex",
     "via": ["svPkgdown"],
@@ -76,6 +82,12 @@
     "url": "https://github.com/SciViews/chart",
     "via": ["modelit"],
     "from": "modelit"
+  },
+  {
+    "package": "chart",
+    "url": "https://github.com/SciViews/chart",
+    "via": ["tabularise", "data.io", "SciViews"],
+    "from": "tabularise"
   },
   {
     "package": "data.io",
@@ -120,6 +132,12 @@
     "from": "modelit"
   },
   {
+    "package": "data.io",
+    "url": "https://github.com/SciViews/data.io",
+    "via": ["tabularise"],
+    "from": "tabularise"
+  },
+  {
     "package": "equatiomatic",
     "url": "https://github.com/datalorax/equatiomatic",
     "via": ["SciViews", "tabularise"],
@@ -142,6 +160,12 @@
     "url": "https://github.com/datalorax/equatiomatic",
     "via": ["modelit", "chart", "data.io", "SciViews", "tabularise"],
     "from": "modelit"
+  },
+  {
+    "package": "equatiomatic",
+    "url": "https://github.com/datalorax/equatiomatic",
+    "via": ["tabularise"],
+    "from": "tabularise"
   },
   {
     "package": "ggcheck",
@@ -236,6 +260,12 @@
     "from": "modelit"
   },
   {
+    "package": "svBase",
+    "url": "https://github.com/SciViews/svBase",
+    "via": ["tabularise", "data.io"],
+    "from": "tabularise"
+  },
+  {
     "package": "svFlow",
     "url": "https://github.com/SciViews/svFlow",
     "via": ["SciViews"],
@@ -282,6 +312,12 @@
     "url": "https://github.com/SciViews/svFlow",
     "via": ["modelit", "chart", "data.io", "SciViews"],
     "from": "modelit"
+  },
+  {
+    "package": "svFlow",
+    "url": "https://github.com/SciViews/svFlow",
+    "via": ["tabularise", "data.io", "SciViews"],
+    "from": "tabularise"
   },
   {
     "package": "svMisc",
@@ -332,6 +368,12 @@
     "from": "modelit"
   },
   {
+    "package": "svMisc",
+    "url": "https://github.com/SciViews/svMisc",
+    "via": ["tabularise"],
+    "from": "tabularise"
+  },
+  {
     "package": "tabularise",
     "url": "https://github.com/SciViews/tabularise",
     "via": ["SciViews"],
@@ -378,5 +420,11 @@
     "url": "https://github.com/yonicd/texPreview",
     "via": ["modelit", "chart", "data.io", "SciViews", "tabularise", "equatiomatic"],
     "from": "modelit"
+  },
+  {
+    "package": "texPreview",
+    "url": "https://github.com/yonicd/texPreview",
+    "via": ["tabularise", "equatiomatic"],
+    "from": "tabularise"
   }
 ]
