@@ -304,7 +304,7 @@
   {
     "package": "svMisc",
     "url": "https://github.com/SciViews/svMisc",
-    "via": ["SciViews"],
+    "via": ["SciViews", "chart"],
     "from": "SciViews"
   },
   {
@@ -372,6 +372,12 @@
     "url": "https://github.com/SciViews/tabularise",
     "via": ["modelit", "chart", "data.io", "SciViews"],
     "from": "modelit"
+  },
+  {
+    "package": "texPreview",
+    "url": "https://github.com/yonicd/texPreview",
+    "via": ["SciViews", "tabularise", "equatiomatic"],
+    "from": "SciViews"
   },
   {
     "package": "texPreview",
