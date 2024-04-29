@@ -74,12 +74,6 @@
   {
     "package": "chart",
     "url": "https://github.com/SciViews/chart",
-    "via": ["form.io"],
-    "from": "form.io"
-  },
-  {
-    "package": "chart",
-    "url": "https://github.com/SciViews/chart",
     "via": ["modelit"],
     "from": "modelit"
   },
@@ -118,18 +112,6 @@
     "url": "https://github.com/SciViews/data.io",
     "via": ["exploreit", "SciViews"],
     "from": "exploreit"
-  },
-  {
-    "package": "data.io",
-    "url": "https://github.com/SciViews/data.io",
-    "via": ["form.io"],
-    "from": "form.io"
-  },
-  {
-    "package": "data.io",
-    "url": "https://github.com/SciViews/data.io",
-    "via": ["form.io", "chart"],
-    "from": "form.io"
   },
   {
     "package": "data.io",
