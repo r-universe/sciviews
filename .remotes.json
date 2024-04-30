@@ -138,6 +138,12 @@
     "from": "tabularise"
   },
   {
+    "package": "equatags",
+    "url": "https://github.com/ardata-fr/equatags",
+    "via": ["modelit"],
+    "from": "modelit"
+  },
+  {
     "package": "equatiomatic",
     "url": "https://github.com/datalorax/equatiomatic",
     "via": ["SciViews", "tabularise"],

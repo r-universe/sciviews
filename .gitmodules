@@ -21,6 +21,10 @@
 [submodule "data.io"]
 	path = data.io
 	url = https://github.com/SciViews/data.io
+[submodule "equatags"]
+	path = equatags
+	url = https://github.com/ardata-fr/equatags
+	registered = false
 [submodule "equatiomatic"]
 	path = equatiomatic
 	url = https://github.com/datalorax/equatiomatic
