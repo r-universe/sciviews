@@ -2,7 +2,7 @@
   {
     "package": "SciViews",
     "url": "https://github.com/SciViews/SciViews",
-    "via": ["exploreit", "data.io"],
+    "via": ["exploreit"],
     "from": "exploreit"
   },
   {
@@ -32,7 +32,7 @@
   {
     "package": "chart",
     "url": "https://github.com/SciViews/chart",
-    "via": ["exploreit", "data.io", "SciViews"],
+    "via": ["exploreit"],
     "from": "exploreit"
   },
   {
@@ -92,7 +92,7 @@
   {
     "package": "equatags",
     "url": "https://github.com/ardata-fr/equatags",
-    "via": ["exploreit", "data.io", "SciViews", "tabularise"],
+    "via": ["exploreit", "SciViews", "tabularise"],
     "from": "exploreit"
   },
   {
@@ -122,7 +122,7 @@
   {
     "package": "equatiomatic",
     "url": "https://github.com/datalorax/equatiomatic",
-    "via": ["exploreit", "data.io", "SciViews", "tabularise"],
+    "via": ["exploreit", "SciViews", "tabularise"],
     "from": "exploreit"
   },
   {
@@ -184,7 +184,7 @@
   {
     "package": "svBase",
     "url": "https://github.com/SciViews/svBase",
-    "via": ["exploreit", "data.io", "SciViews"],
+    "via": ["exploreit", "data.io"],
     "from": "exploreit"
   },
   {
@@ -214,7 +214,7 @@
   {
     "package": "svFlow",
     "url": "https://github.com/SciViews/svFlow",
-    "via": ["exploreit", "data.io", "SciViews"],
+    "via": ["exploreit", "SciViews"],
     "from": "exploreit"
   },
   {
@@ -250,7 +250,7 @@
   {
     "package": "svMisc",
     "url": "https://github.com/SciViews/svMisc",
-    "via": ["exploreit", "data.io", "SciViews", "chart"],
+    "via": ["exploreit", "data.io", "svBase"],
     "from": "exploreit"
   },
   {
@@ -286,7 +286,7 @@
   {
     "package": "tabularise",
     "url": "https://github.com/SciViews/tabularise",
-    "via": ["exploreit", "data.io", "SciViews"],
+    "via": ["exploreit", "SciViews"],
     "from": "exploreit"
   },
   {
@@ -310,7 +310,7 @@
   {
     "package": "texPreview",
     "url": "https://github.com/yonicd/texPreview",
-    "via": ["exploreit", "data.io", "SciViews", "tabularise", "equatiomatic"],
+    "via": ["exploreit", "SciViews", "tabularise", "equatiomatic"],
     "from": "exploreit"
   },
   {
