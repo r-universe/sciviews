@@ -156,6 +156,12 @@
     "from": "modelit"
   },
   {
+    "package": "equatags",
+    "url": "https://github.com/ardata-fr/equatags",
+    "via": ["tabularise"],
+    "from": "tabularise"
+  },
+  {
     "package": "equatiomatic",
     "url": "https://github.com/datalorax/equatiomatic",
     "via": ["SciViews", "tabularise"],
@@ -280,7 +286,7 @@
   {
     "package": "svBase",
     "url": "https://github.com/SciViews/svBase",
-    "via": ["tabularise", "data.io"],
+    "via": ["tabularise", "data.io", "SciViews"],
     "from": "tabularise"
   },
   {
@@ -388,7 +394,7 @@
   {
     "package": "svMisc",
     "url": "https://github.com/SciViews/svMisc",
-    "via": ["tabularise"],
+    "via": ["tabularise", "data.io", "SciViews", "chart"],
     "from": "tabularise"
   },
   {
