@@ -26,7 +26,7 @@
   {
     "package": "SciViews",
     "url": "https://github.com/SciViews/SciViews",
-    "via": ["modelit", "chart", "data.io"],
+    "via": ["modelit", "data.io"],
     "from": "modelit"
   },
   {
@@ -68,7 +68,7 @@
   {
     "package": "chart",
     "url": "https://github.com/SciViews/chart",
-    "via": ["modelit"],
+    "via": ["modelit", "data.io", "SciViews"],
     "from": "modelit"
   },
   {
@@ -104,7 +104,7 @@
   {
     "package": "data.io",
     "url": "https://github.com/SciViews/data.io",
-    "via": ["modelit", "chart"],
+    "via": ["modelit"],
     "from": "modelit"
   },
   {
@@ -182,7 +182,7 @@
   {
     "package": "equatiomatic",
     "url": "https://github.com/datalorax/equatiomatic",
-    "via": ["modelit", "chart", "data.io", "SciViews", "tabularise"],
+    "via": ["modelit"],
     "from": "modelit"
   },
   {
@@ -244,7 +244,7 @@
   {
     "package": "svBase",
     "url": "https://github.com/SciViews/svBase",
-    "via": ["modelit", "chart", "data.io"],
+    "via": ["modelit", "data.io", "SciViews"],
     "from": "modelit"
   },
   {
@@ -286,7 +286,7 @@
   {
     "package": "svFlow",
     "url": "https://github.com/SciViews/svFlow",
-    "via": ["modelit", "chart", "data.io", "SciViews"],
+    "via": ["modelit", "data.io", "SciViews"],
     "from": "modelit"
   },
   {
@@ -328,7 +328,7 @@
   {
     "package": "svMisc",
     "url": "https://github.com/SciViews/svMisc",
-    "via": ["modelit", "chart", "data.io", "SciViews"],
+    "via": ["modelit", "data.io", "SciViews", "chart"],
     "from": "modelit"
   },
   {
@@ -370,7 +370,7 @@
   {
     "package": "tabularise",
     "url": "https://github.com/SciViews/tabularise",
-    "via": ["modelit", "chart", "data.io", "SciViews"],
+    "via": ["modelit", "data.io", "SciViews"],
     "from": "modelit"
   },
   {
@@ -406,7 +406,7 @@
   {
     "package": "texPreview",
     "url": "https://github.com/yonicd/texPreview",
-    "via": ["modelit", "chart", "data.io", "SciViews", "tabularise", "equatiomatic"],
+    "via": ["modelit", "equatiomatic"],
     "from": "modelit"
   },
   {
