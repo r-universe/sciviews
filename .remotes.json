@@ -140,6 +140,12 @@
   {
     "package": "equatags",
     "url": "https://github.com/ardata-fr/equatags",
+    "via": ["SciViews", "tabularise"],
+    "from": "SciViews"
+  },
+  {
+    "package": "equatags",
+    "url": "https://github.com/ardata-fr/equatags",
     "via": ["modelit"],
     "from": "modelit"
   },
