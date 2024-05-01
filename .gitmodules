@@ -2,15 +2,12 @@
 	path = .registry
 	url = https://github.com/sciviews/sciviews.r-universe.dev
 	branch = HEAD
-[submodule "RImageJ"]
-	path = RImageJ
-	url = https://github.com/SciViews/RImageJ
 [submodule "SciViews"]
 	path = SciViews
 	url = https://github.com/SciViews/SciViews
 [submodule "aurelhy"]
 	path = aurelhy
-	url = https://github.com/phgrosjean/aurelhy
+	url = https://github.com/SciViews/aurelhy
 [submodule "bibtex"]
 	path = bibtex
 	url = https://github.com/ROpenSci/bibtex
@@ -44,9 +41,6 @@
 [submodule "inferit"]
 	path = inferit
 	url = https://github.com/SciViews/inferit
-[submodule "learnitdown"]
-	path = learnitdown
-	url = https://github.com/SciViews/learnitdown
 [submodule "learnr"]
 	path = learnr
 	url = https://github.com/rstudio/learnr
@@ -60,7 +54,7 @@
 	url = https://github.com/SciViews/modelit
 [submodule "pastecs"]
 	path = pastecs
-	url = https://github.com/phgrosjean/pastecs
+	url = https://github.com/SciViews/pastecs
 [submodule "svBase"]
 	path = svBase
 	url = https://github.com/SciViews/svBase
@@ -70,9 +64,9 @@
 [submodule "svDialogstcltk"]
 	path = svDialogstcltk
 	url = https://github.com/SciViews/svDialogstcltk
-[submodule "svDoc"]
-	path = svDoc
-	url = https://github.com/SciViews/svDoc
+[submodule "svFast"]
+	path = svFast
+	url = https://github.com/SciViews/svFast
 [submodule "svFlow"]
 	path = svFlow
 	url = https://github.com/SciViews/svFlow
@@ -82,12 +76,6 @@
 [submodule "svHttp"]
 	path = svHttp
 	url = https://github.com/SciViews/svHttp
-[submodule "svIDE"]
-	path = svIDE
-	url = https://github.com/SciViews/svIDE
-[submodule "svKomodo"]
-	path = svKomodo
-	url = https://github.com/SciViews/svKomodo
 [submodule "svMisc"]
 	path = svMisc
 	url = https://github.com/SciViews/svMisc
@@ -97,18 +85,9 @@
 [submodule "svSocket"]
 	path = svSocket
 	url = https://github.com/SciViews/svSocket
-[submodule "svSweave"]
-	path = svSweave
-	url = https://github.com/SciViews/svSweave
-[submodule "svTools"]
-	path = svTools
-	url = https://github.com/SciViews/svTools
 [submodule "svUnit"]
 	path = svUnit
 	url = https://github.com/SciViews/svUnit
-[submodule "svWidgets"]
-	path = svWidgets
-	url = https://github.com/SciViews/svWidgets
 [submodule "tabularise"]
 	path = tabularise
 	url = https://github.com/SciViews/tabularise
@@ -116,6 +95,3 @@
 	path = texPreview
 	url = https://github.com/yonicd/texPreview
 	registered = false
-[submodule "zooimage"]
-	path = zooimage
-	url = https://github.com/SciViews/zooimage
