@@ -8,12 +8,6 @@
   {
     "package": "SciViews",
     "url": "https://github.com/SciViews/SciViews",
-    "via": ["inferit", "chart", "data.io"],
-    "from": "inferit"
-  },
-  {
-    "package": "SciViews",
-    "url": "https://github.com/SciViews/SciViews",
     "via": ["modelit", "data.io"],
     "from": "modelit"
   },
@@ -190,7 +184,7 @@
   {
     "package": "svBase",
     "url": "https://github.com/SciViews/svBase",
-    "via": ["inferit", "chart", "data.io", "SciViews"],
+    "via": ["inferit", "chart", "data.io"],
     "from": "inferit"
   },
   {
@@ -216,12 +210,6 @@
     "url": "https://github.com/SciViews/svFlow",
     "via": ["exploreit", "SciViews"],
     "from": "exploreit"
-  },
-  {
-    "package": "svFlow",
-    "url": "https://github.com/SciViews/svFlow",
-    "via": ["inferit", "chart", "data.io", "SciViews"],
-    "from": "inferit"
   },
   {
     "package": "svFlow",
@@ -256,7 +244,7 @@
   {
     "package": "svMisc",
     "url": "https://github.com/SciViews/svMisc",
-    "via": ["inferit", "chart", "data.io", "SciViews"],
+    "via": ["inferit", "chart", "data.io", "svBase"],
     "from": "inferit"
   },
   {
@@ -292,7 +280,7 @@
   {
     "package": "tabularise",
     "url": "https://github.com/SciViews/tabularise",
-    "via": ["inferit", "chart", "data.io", "SciViews"],
+    "via": ["inferit"],
     "from": "inferit"
   },
   {
