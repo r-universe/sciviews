@@ -334,6 +334,12 @@
   {
     "package": "svMisc",
     "url": "https://github.com/SciViews/svMisc",
+    "via": ["svBase"],
+    "from": "svBase"
+  },
+  {
+    "package": "svMisc",
+    "url": "https://github.com/SciViews/svMisc",
     "via": ["tabularise", "data.io", "SciViews", "chart"],
     "from": "tabularise"
   },
