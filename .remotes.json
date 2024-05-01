@@ -6,12 +6,6 @@
     "from": "exploreit"
   },
   {
-    "package": "SciViews",
-    "url": "https://github.com/SciViews/SciViews",
-    "via": ["modelit", "data.io"],
-    "from": "modelit"
-  },
-  {
     "package": "bibtex",
     "url": "https://github.com/ROpenSci/bibtex",
     "via": ["svPkgdown"],
@@ -38,7 +32,7 @@
   {
     "package": "chart",
     "url": "https://github.com/SciViews/chart",
-    "via": ["modelit", "data.io", "SciViews"],
+    "via": ["modelit"],
     "from": "modelit"
   },
   {
@@ -190,7 +184,7 @@
   {
     "package": "svBase",
     "url": "https://github.com/SciViews/svBase",
-    "via": ["modelit", "data.io", "SciViews"],
+    "via": ["modelit", "data.io"],
     "from": "modelit"
   },
   {
@@ -214,7 +208,7 @@
   {
     "package": "svFlow",
     "url": "https://github.com/SciViews/svFlow",
-    "via": ["modelit", "data.io", "SciViews"],
+    "via": ["modelit"],
     "from": "modelit"
   },
   {
@@ -250,7 +244,7 @@
   {
     "package": "svMisc",
     "url": "https://github.com/SciViews/svMisc",
-    "via": ["modelit", "data.io", "SciViews", "chart"],
+    "via": ["modelit", "data.io", "svBase"],
     "from": "modelit"
   },
   {
@@ -286,7 +280,7 @@
   {
     "package": "tabularise",
     "url": "https://github.com/SciViews/tabularise",
-    "via": ["modelit", "data.io", "SciViews"],
+    "via": ["modelit"],
     "from": "modelit"
   },
   {
