@@ -146,6 +146,12 @@
   {
     "package": "equatags",
     "url": "https://github.com/ardata-fr/equatags",
+    "via": ["data.io", "SciViews", "tabularise"],
+    "from": "data.io"
+  },
+  {
+    "package": "equatags",
+    "url": "https://github.com/ardata-fr/equatags",
     "via": ["modelit"],
     "from": "modelit"
   },
@@ -214,7 +220,7 @@
   {
     "package": "svBase",
     "url": "https://github.com/SciViews/svBase",
-    "via": ["data.io"],
+    "via": ["data.io", "SciViews"],
     "from": "data.io"
   },
   {
