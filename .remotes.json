@@ -250,7 +250,7 @@
   {
     "package": "svMisc",
     "url": "https://github.com/SciViews/svMisc",
-    "via": ["SciViews", "chart"],
+    "via": ["SciViews", "chart", "data.io", "svBase"],
     "from": "SciViews"
   },
   {
