@@ -2,12 +2,6 @@
   {
     "package": "SciViews",
     "url": "https://github.com/SciViews/SciViews",
-    "via": ["chart", "data.io"],
-    "from": "chart"
-  },
-  {
-    "package": "SciViews",
-    "url": "https://github.com/SciViews/SciViews",
     "via": ["exploreit", "data.io"],
     "from": "exploreit"
   },
@@ -140,12 +134,6 @@
   {
     "package": "equatiomatic",
     "url": "https://github.com/datalorax/equatiomatic",
-    "via": ["chart", "data.io", "SciViews", "tabularise"],
-    "from": "chart"
-  },
-  {
-    "package": "equatiomatic",
-    "url": "https://github.com/datalorax/equatiomatic",
     "via": ["exploreit", "data.io", "SciViews", "tabularise"],
     "from": "exploreit"
   },
@@ -238,12 +226,6 @@
   {
     "package": "svFlow",
     "url": "https://github.com/SciViews/svFlow",
-    "via": ["chart", "data.io", "SciViews"],
-    "from": "chart"
-  },
-  {
-    "package": "svFlow",
-    "url": "https://github.com/SciViews/svFlow",
     "via": ["exploreit", "data.io", "SciViews"],
     "from": "exploreit"
   },
@@ -274,7 +256,7 @@
   {
     "package": "svMisc",
     "url": "https://github.com/SciViews/svMisc",
-    "via": ["chart", "data.io", "SciViews"],
+    "via": ["chart", "data.io", "svBase"],
     "from": "chart"
   },
   {
@@ -322,12 +304,6 @@
   {
     "package": "tabularise",
     "url": "https://github.com/SciViews/tabularise",
-    "via": ["chart", "data.io", "SciViews"],
-    "from": "chart"
-  },
-  {
-    "package": "tabularise",
-    "url": "https://github.com/SciViews/tabularise",
     "via": ["exploreit", "data.io", "SciViews"],
     "from": "exploreit"
   },
@@ -348,12 +324,6 @@
     "url": "https://github.com/yonicd/texPreview",
     "via": ["SciViews", "tabularise", "equatiomatic"],
     "from": "SciViews"
-  },
-  {
-    "package": "texPreview",
-    "url": "https://github.com/yonicd/texPreview",
-    "via": ["chart", "data.io", "SciViews", "tabularise", "equatiomatic"],
-    "from": "chart"
   },
   {
     "package": "texPreview",
