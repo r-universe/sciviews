@@ -29,23 +29,9 @@
 [submodule "exploreit"]
 	path = exploreit
 	url = https://github.com/SciViews/exploreit
-[submodule "ggcheck"]
-	path = ggcheck
-	url = https://github.com/rstudio/ggcheck
-	registered = false
-[submodule "gradethis"]
-	path = gradethis
-	url = https://github.com/rstudio/gradethis
-	branch = v0.2.8.9000
-	registered = false
 [submodule "inferit"]
 	path = inferit
 	url = https://github.com/SciViews/inferit
-[submodule "learnr"]
-	path = learnr
-	url = https://github.com/rstudio/learnr
-	branch = v0.10.5.9000
-	registered = false
 [submodule "mlearning"]
 	path = mlearning
 	url = https://github.com/SciViews/mlearning
