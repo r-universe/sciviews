@@ -121,7 +121,7 @@
   },
   {
     "package": "equatiomatic",
-    "url": "https://github.com/datalorax/equatiomatic",
+    "url": "https://github.com/SciViews/equatiomatic",
     "via": ["modelit"],
     "from": "modelit"
   },
@@ -284,7 +284,7 @@
   {
     "package": "texPreview",
     "url": "https://github.com/yonicd/texPreview",
-    "via": ["modelit", "equatiomatic"],
+    "via": ["modelit", "tabularise", "equatiomatic"],
     "from": "modelit"
   },
   {
