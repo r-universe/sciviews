@@ -5,9 +5,6 @@
 [submodule "SciViews"]
 	path = SciViews
 	url = https://github.com/SciViews/SciViews
-[submodule "aurelhy"]
-	path = aurelhy
-	url = https://github.com/SciViews/aurelhy
 [submodule "bibtex"]
 	path = bibtex
 	url = https://github.com/ROpenSci/bibtex
@@ -38,9 +35,6 @@
 [submodule "modelit"]
 	path = modelit
 	url = https://github.com/SciViews/modelit
-[submodule "pastecs"]
-	path = pastecs
-	url = https://github.com/SciViews/pastecs
 [submodule "svBase"]
 	path = svBase
 	url = https://github.com/SciViews/svBase
