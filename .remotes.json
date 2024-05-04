@@ -115,7 +115,7 @@
   },
   {
     "package": "equatiomatic",
-    "url": "https://github.com/datalorax/equatiomatic",
+    "url": "https://github.com/SciViews/equatiomatic",
     "via": ["inferit"],
     "from": "inferit"
   },
@@ -278,7 +278,7 @@
   {
     "package": "texPreview",
     "url": "https://github.com/yonicd/texPreview",
-    "via": ["inferit", "equatiomatic"],
+    "via": ["inferit", "tabularise", "equatiomatic"],
     "from": "inferit"
   },
   {
