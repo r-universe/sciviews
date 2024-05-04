@@ -2,10 +2,6 @@
 	path = .registry
 	url = https://github.com/sciviews/sciviews.r-universe.dev
 	branch = HEAD
-[submodule "RcppParallel"]
-	path = RcppParallel
-	url = https://github.com/RcppCore/RcppParallel
-	registered = false
 [submodule "SciViews"]
 	path = SciViews
 	url = https://github.com/SciViews/SciViews
