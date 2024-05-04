@@ -284,12 +284,6 @@
   {
     "package": "texPreview",
     "url": "https://github.com/yonicd/texPreview",
-    "via": ["inferit", "tabularise", "equatiomatic"],
-    "from": "inferit"
-  },
-  {
-    "package": "texPreview",
-    "url": "https://github.com/yonicd/texPreview",
     "via": ["modelit", "tabularise", "equatiomatic"],
     "from": "modelit"
   }
