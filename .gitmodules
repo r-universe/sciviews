@@ -28,8 +28,7 @@
 	registered = false
 [submodule "equatiomatic"]
 	path = equatiomatic
-	url = https://github.com/datalorax/equatiomatic
-	registered = false
+	url = https://github.com/SciViews/equatiomatic
 [submodule "exploreit"]
 	path = exploreit
 	url = https://github.com/SciViews/exploreit
@@ -54,9 +53,6 @@
 [submodule "svDialogstcltk"]
 	path = svDialogstcltk
 	url = https://github.com/SciViews/svDialogstcltk
-[submodule "svFast"]
-	path = svFast
-	url = https://github.com/SciViews/svFast
 [submodule "svFlow"]
 	path = svFlow
 	url = https://github.com/SciViews/svFlow
