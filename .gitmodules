@@ -8,10 +8,6 @@
 [submodule "aurelhy"]
 	path = aurelhy
 	url = https://github.com/SciViews/aurelhy
-[submodule "bibtex"]
-	path = bibtex
-	url = https://github.com/ROpenSci/bibtex
-	registered = false
 [submodule "chart"]
 	path = chart
 	url = https://github.com/SciViews/chart
