@@ -20,7 +20,7 @@
 	registered = false
 [submodule "equatiomatic"]
 	path = equatiomatic
-	url = https://github.com/SciViews/equatiomatic
+	url = https://github.com/datalorax/equatiomatic
 [submodule "exploreit"]
 	path = exploreit
 	url = https://github.com/SciViews/exploreit
