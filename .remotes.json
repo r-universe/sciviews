@@ -78,12 +78,6 @@
     "from": "exploreit"
   },
   {
-    "package": "equatags",
-    "url": "https://github.com/ardata-fr/equatags",
-    "via": ["modelit"],
-    "from": "modelit"
-  },
-  {
     "package": "equatiomatic",
     "url": "https://github.com/datalorax/equatiomatic",
     "via": ["SciViews", "tabularise"],
@@ -94,12 +88,6 @@
     "url": "https://github.com/datalorax/equatiomatic",
     "via": ["exploreit", "SciViews", "tabularise"],
     "from": "exploreit"
-  },
-  {
-    "package": "equatiomatic",
-    "url": "https://github.com/SciViews/equatiomatic",
-    "via": ["modelit"],
-    "from": "modelit"
   },
   {
     "package": "svBase",
@@ -244,11 +232,5 @@
     "url": "https://github.com/yonicd/texPreview",
     "via": ["exploreit", "SciViews", "tabularise", "equatiomatic"],
     "from": "exploreit"
-  },
-  {
-    "package": "texPreview",
-    "url": "https://github.com/yonicd/texPreview",
-    "via": ["modelit", "tabularise", "equatiomatic"],
-    "from": "modelit"
   }
 ]
