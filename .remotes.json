@@ -80,12 +80,6 @@
   {
     "package": "equatags",
     "url": "https://github.com/ardata-fr/equatags",
-    "via": ["inferit"],
-    "from": "inferit"
-  },
-  {
-    "package": "equatags",
-    "url": "https://github.com/ardata-fr/equatags",
     "via": ["modelit"],
     "from": "modelit"
   },
@@ -100,12 +94,6 @@
     "url": "https://github.com/datalorax/equatiomatic",
     "via": ["exploreit", "SciViews", "tabularise"],
     "from": "exploreit"
-  },
-  {
-    "package": "equatiomatic",
-    "url": "https://github.com/SciViews/equatiomatic",
-    "via": ["inferit"],
-    "from": "inferit"
   },
   {
     "package": "equatiomatic",
