@@ -14,6 +14,9 @@
 [submodule "data.io"]
 	path = data.io
 	url = https://github.com/SciViews/data.io
+[submodule "data.trame"]
+	path = data.trame
+	url = https://github.com/SciViews/data.trame
 [submodule "equatags"]
 	path = equatags
 	url = https://github.com/ardata-fr/equatags
