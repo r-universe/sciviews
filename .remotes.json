@@ -72,6 +72,12 @@
     "from": "svBase"
   },
   {
+    "package": "data.trame",
+    "url": "https://github.com/SciViews/data.trame",
+    "via": ["tabularise", "data.io", "svBase"],
+    "from": "tabularise"
+  },
+  {
     "package": "equatags",
     "url": "https://github.com/ardata-fr/equatags",
     "via": ["exploreit", "SciViews", "tabularise"],
