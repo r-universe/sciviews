@@ -68,6 +68,12 @@
   {
     "package": "data.trame",
     "url": "https://github.com/SciViews/data.trame",
+    "via": ["data.io", "svBase"],
+    "from": "data.io"
+  },
+  {
+    "package": "data.trame",
+    "url": "https://github.com/SciViews/data.trame",
     "via": ["svBase"],
     "from": "svBase"
   },
