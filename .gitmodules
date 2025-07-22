@@ -20,7 +20,6 @@
 [submodule "equatags"]
 	path = equatags
 	url = https://github.com/ardata-fr/equatags
-	registered = false
 [submodule "equatiomatic"]
 	path = equatiomatic
 	url = https://github.com/datalorax/equatiomatic
