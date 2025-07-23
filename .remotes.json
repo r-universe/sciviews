@@ -80,7 +80,7 @@
   {
     "package": "data.trame",
     "url": "https://github.com/SciViews/data.trame",
-    "via": ["tabularise", "data.io", "svBase"],
+    "via": ["tabularise", "data.io"],
     "from": "tabularise"
   },
   {
