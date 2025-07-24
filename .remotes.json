@@ -68,6 +68,12 @@
   {
     "package": "data.trame",
     "url": "https://github.com/SciViews/data.trame",
+    "via": ["SciViews", "chart", "data.io"],
+    "from": "SciViews"
+  },
+  {
+    "package": "data.trame",
+    "url": "https://github.com/SciViews/data.trame",
     "via": ["data.io"],
     "from": "data.io"
   },
