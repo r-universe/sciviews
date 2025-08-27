@@ -92,6 +92,12 @@
   {
     "package": "data.trame",
     "url": "https://github.com/SciViews/data.trame",
+    "via": ["svTidy", "svBase"],
+    "from": "svTidy"
+  },
+  {
+    "package": "data.trame",
+    "url": "https://github.com/SciViews/data.trame",
     "via": ["tabularise", "data.io"],
     "from": "tabularise"
   },
@@ -142,6 +148,12 @@
     "url": "https://github.com/SciViews/svBase",
     "via": ["modelit", "data.io"],
     "from": "modelit"
+  },
+  {
+    "package": "svBase",
+    "url": "https://github.com/SciViews/svBase",
+    "via": ["svTidy"],
+    "from": "svTidy"
   },
   {
     "package": "svBase",
@@ -208,6 +220,12 @@
     "url": "https://github.com/SciViews/svMisc",
     "via": ["svBase"],
     "from": "svBase"
+  },
+  {
+    "package": "svMisc",
+    "url": "https://github.com/SciViews/svMisc",
+    "via": ["svTidy", "svBase"],
+    "from": "svTidy"
   },
   {
     "package": "svMisc",
