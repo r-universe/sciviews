@@ -200,12 +200,6 @@
   {
     "package": "svMisc",
     "url": "https://github.com/SciViews/svMisc",
-    "via": ["data.io", "svBase"],
-    "from": "data.io"
-  },
-  {
-    "package": "svMisc",
-    "url": "https://github.com/SciViews/svMisc",
     "via": ["exploreit", "data.io", "svBase"],
     "from": "exploreit"
   },
