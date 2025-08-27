@@ -72,12 +72,6 @@
     "from": "modelit"
   },
   {
-    "package": "data.io",
-    "url": "https://github.com/SciViews/data.io",
-    "via": ["tabularise"],
-    "from": "tabularise"
-  },
-  {
     "package": "data.trame",
     "url": "https://github.com/SciViews/data.trame",
     "via": ["SciViews", "chart", "data.io"],
@@ -110,7 +104,7 @@
   {
     "package": "data.trame",
     "url": "https://github.com/SciViews/data.trame",
-    "via": ["tabularise", "data.io"],
+    "via": ["tabularise", "svBase"],
     "from": "tabularise"
   },
   {
@@ -170,7 +164,7 @@
   {
     "package": "svBase",
     "url": "https://github.com/SciViews/svBase",
-    "via": ["tabularise", "data.io"],
+    "via": ["tabularise"],
     "from": "tabularise"
   },
   {
@@ -226,12 +220,6 @@
     "url": "https://github.com/SciViews/svMisc",
     "via": ["svTidy"],
     "from": "svTidy"
-  },
-  {
-    "package": "svMisc",
-    "url": "https://github.com/SciViews/svMisc",
-    "via": ["tabularise", "data.io", "svBase"],
-    "from": "tabularise"
   },
   {
     "package": "svTidy",
