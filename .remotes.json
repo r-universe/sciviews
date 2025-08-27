@@ -224,12 +224,6 @@
   {
     "package": "svMisc",
     "url": "https://github.com/SciViews/svMisc",
-    "via": ["svBase"],
-    "from": "svBase"
-  },
-  {
-    "package": "svMisc",
-    "url": "https://github.com/SciViews/svMisc",
     "via": ["svTidy", "svBase"],
     "from": "svTidy"
   },
