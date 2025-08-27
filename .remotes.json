@@ -8,6 +8,12 @@
   {
     "package": "RcppParallel",
     "url": "https://github.com/RcppCore/RcppParallel",
+    "via": ["exploreit", "SciViews", "svFast"],
+    "from": "exploreit"
+  },
+  {
+    "package": "RcppParallel",
+    "url": "https://github.com/RcppCore/RcppParallel",
     "via": ["svFast"],
     "from": "svFast"
   },
@@ -92,6 +98,12 @@
   {
     "package": "data.trame",
     "url": "https://github.com/SciViews/data.trame",
+    "via": ["exploreit", "data.io"],
+    "from": "exploreit"
+  },
+  {
+    "package": "data.trame",
+    "url": "https://github.com/SciViews/data.trame",
     "via": ["svBase"],
     "from": "svBase"
   },
@@ -106,18 +118,6 @@
     "url": "https://github.com/SciViews/data.trame",
     "via": ["tabularise", "svBase"],
     "from": "tabularise"
-  },
-  {
-    "package": "equatags",
-    "url": "https://github.com/ardata-fr/equatags",
-    "via": ["exploreit", "SciViews", "tabularise"],
-    "from": "exploreit"
-  },
-  {
-    "package": "equatiomatic",
-    "url": "https://github.com/datalorax/equatiomatic",
-    "via": ["exploreit", "SciViews", "tabularise"],
-    "from": "exploreit"
   },
   {
     "package": "svBase",
@@ -174,6 +174,12 @@
     "from": "SciViews"
   },
   {
+    "package": "svFast",
+    "url": "https://github.com/SciViews/svFast",
+    "via": ["exploreit", "SciViews"],
+    "from": "exploreit"
+  },
+  {
     "package": "svFlow",
     "url": "https://github.com/SciViews/svFlow",
     "via": ["SciViews"],
@@ -200,7 +206,7 @@
   {
     "package": "svMisc",
     "url": "https://github.com/SciViews/svMisc",
-    "via": ["exploreit", "data.io", "svBase"],
+    "via": ["exploreit", "SciViews"],
     "from": "exploreit"
   },
   {
@@ -228,6 +234,12 @@
     "from": "SciViews"
   },
   {
+    "package": "svTidy",
+    "url": "https://github.com/SciViews/svTidy",
+    "via": ["exploreit", "SciViews"],
+    "from": "exploreit"
+  },
+  {
     "package": "tabularise",
     "url": "https://github.com/SciViews/tabularise",
     "via": ["SciViews"],
@@ -250,11 +262,5 @@
     "url": "https://github.com/SciViews/tabularise",
     "via": ["modelit"],
     "from": "modelit"
-  },
-  {
-    "package": "texPreview",
-    "url": "https://github.com/yonicd/texPreview",
-    "via": ["exploreit", "SciViews", "tabularise", "equatiomatic"],
-    "from": "exploreit"
   }
 ]

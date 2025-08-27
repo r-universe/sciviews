@@ -21,10 +21,6 @@
 [submodule "data.trame"]
 	path = data.trame
 	url = https://github.com/SciViews/data.trame
-[submodule "equatags"]
-	path = equatags
-	url = https://github.com/ardata-fr/equatags
-	registered = false
 [submodule "equatiomatic"]
 	path = equatiomatic
 	url = https://github.com/datalorax/equatiomatic
@@ -82,7 +78,3 @@
 [submodule "tabularise"]
 	path = tabularise
 	url = https://github.com/SciViews/tabularise
-[submodule "texPreview"]
-	path = texPreview
-	url = https://github.com/yonicd/texPreview
-	registered = false
