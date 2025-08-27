@@ -20,6 +20,7 @@
 [submodule "equatags"]
 	path = equatags
 	url = https://github.com/ardata-fr/equatags
+	registered = false
 [submodule "equatiomatic"]
 	path = equatiomatic
 	url = https://github.com/datalorax/equatiomatic
@@ -47,6 +48,9 @@
 [submodule "svDialogstcltk"]
 	path = svDialogstcltk
 	url = https://github.com/SciViews/svDialogstcltk
+[submodule "svFast"]
+	path = svFast
+	url = https://github.com/SciViews/svFast
 [submodule "svFlow"]
 	path = svFlow
 	url = https://github.com/SciViews/svFlow
@@ -65,6 +69,9 @@
 [submodule "svSocket"]
 	path = svSocket
 	url = https://github.com/SciViews/svSocket
+[submodule "svTidy"]
+	path = svTidy
+	url = https://github.com/SciViews/svTidy
 [submodule "svUnit"]
 	path = svUnit
 	url = https://github.com/SciViews/svUnit
