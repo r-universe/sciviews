@@ -98,7 +98,7 @@
   {
     "package": "data.trame",
     "url": "https://github.com/SciViews/data.trame",
-    "via": ["svTidy", "svBase"],
+    "via": ["svTidy"],
     "from": "svTidy"
   },
   {
@@ -224,7 +224,7 @@
   {
     "package": "svMisc",
     "url": "https://github.com/SciViews/svMisc",
-    "via": ["svTidy", "svBase"],
+    "via": ["svTidy"],
     "from": "svTidy"
   },
   {
