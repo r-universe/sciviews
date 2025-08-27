@@ -194,12 +194,6 @@
   {
     "package": "svMisc",
     "url": "https://github.com/SciViews/svMisc",
-    "via": ["chart", "data.io", "svBase"],
-    "from": "chart"
-  },
-  {
-    "package": "svMisc",
-    "url": "https://github.com/SciViews/svMisc",
     "via": ["exploreit", "data.io", "svBase"],
     "from": "exploreit"
   },
