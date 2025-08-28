@@ -104,6 +104,12 @@
   {
     "package": "data.trame",
     "url": "https://github.com/SciViews/data.trame",
+    "via": ["inferit", "chart", "data.io"],
+    "from": "inferit"
+  },
+  {
+    "package": "data.trame",
+    "url": "https://github.com/SciViews/data.trame",
     "via": ["svBase"],
     "from": "svBase"
   },
@@ -208,12 +214,6 @@
     "url": "https://github.com/SciViews/svMisc",
     "via": ["exploreit", "SciViews"],
     "from": "exploreit"
-  },
-  {
-    "package": "svMisc",
-    "url": "https://github.com/SciViews/svMisc",
-    "via": ["inferit", "chart", "data.io", "svBase"],
-    "from": "inferit"
   },
   {
     "package": "svMisc",
