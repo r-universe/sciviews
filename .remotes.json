@@ -2,12 +2,6 @@
   {
     "package": "RcppParallel",
     "url": "https://github.com/RcppCore/RcppParallel",
-    "via": ["SciViews", "svFast"],
-    "from": "SciViews"
-  },
-  {
-    "package": "RcppParallel",
-    "url": "https://github.com/RcppCore/RcppParallel",
     "via": ["exploreit", "SciViews", "svFast"],
     "from": "exploreit"
   },
