@@ -114,6 +114,12 @@
     "from": "tabularise"
   },
   {
+    "package": "helpai",
+    "url": "https://github.com/SciViews/helpai",
+    "via": ["SciViews"],
+    "from": "SciViews"
+  },
+  {
     "package": "svBase",
     "url": "https://github.com/SciViews/svBase",
     "via": ["SciViews", "chart", "data.io"],
