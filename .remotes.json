@@ -2,6 +2,12 @@
   {
     "package": "RcppParallel",
     "url": "https://github.com/RcppCore/RcppParallel",
+    "via": ["SciViews", "svFast"],
+    "from": "SciViews"
+  },
+  {
+    "package": "RcppParallel",
+    "url": "https://github.com/RcppCore/RcppParallel",
     "via": ["svFast"],
     "from": "svFast"
   },
@@ -168,6 +174,12 @@
     "from": "tabularise"
   },
   {
+    "package": "svFast",
+    "url": "https://github.com/SciViews/svFast",
+    "via": ["SciViews"],
+    "from": "SciViews"
+  },
+  {
     "package": "svFlow",
     "url": "https://github.com/SciViews/svFlow",
     "via": ["SciViews"],
@@ -188,7 +200,7 @@
   {
     "package": "svMisc",
     "url": "https://github.com/SciViews/svMisc",
-    "via": ["SciViews", "chart", "data.io", "svBase"],
+    "via": ["SciViews"],
     "from": "SciViews"
   },
   {
@@ -220,6 +232,12 @@
     "url": "https://github.com/SciViews/svMisc",
     "via": ["tabularise", "data.io", "svBase"],
     "from": "tabularise"
+  },
+  {
+    "package": "svTidy",
+    "url": "https://github.com/SciViews/svTidy",
+    "via": ["SciViews"],
+    "from": "SciViews"
   },
   {
     "package": "tabularise",
