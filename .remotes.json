@@ -120,6 +120,12 @@
     "from": "SciViews"
   },
   {
+    "package": "helpai",
+    "url": "https://github.com/SciViews/helpai",
+    "via": ["exploreit", "SciViews"],
+    "from": "exploreit"
+  },
+  {
     "package": "svBase",
     "url": "https://github.com/SciViews/svBase",
     "via": ["SciViews", "chart", "data.io"],
