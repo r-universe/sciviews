@@ -23,6 +23,9 @@
 [submodule "exploreit"]
 	path = exploreit
 	url = https://github.com/SciViews/exploreit
+[submodule "helpai"]
+	path = helpai
+	url = https://github.com/SciViews/helpai
 [submodule "inferit"]
 	path = inferit
 	url = https://github.com/SciViews/inferit
@@ -74,3 +77,6 @@
 [submodule "tabularise"]
 	path = tabularise
 	url = https://github.com/SciViews/tabularise
+[submodule "tcltk2"]
+	path = tcltk2
+	url = https://github.com/SciViews/tcltk2
