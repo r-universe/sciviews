@@ -38,6 +38,9 @@
 [submodule "pastecs"]
 	path = pastecs
 	url = https://github.com/SciViews/pastecs
+[submodule "svAssert"]
+	path = svAssert
+	url = https://github.com/SciViews/svAssert
 [submodule "svBase"]
 	path = svBase
 	url = https://github.com/SciViews/svBase
