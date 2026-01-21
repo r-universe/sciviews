@@ -74,7 +74,6 @@
 [submodule "svTidy"]
 	path = svTidy
 	url = https://github.com/SciViews/svTidy
-	registered = false
 [submodule "svUnit"]
 	path = svUnit
 	url = https://github.com/SciViews/svUnit
